@@ -1,0 +1,8 @@
+# Build
+bin/
+obj/
+*.user
+.vs/
+
+# Fotos capturadas (dados biométricos)
+fotos/
